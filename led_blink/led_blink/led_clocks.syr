@@ -4,13 +4,13 @@ Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.13 secs
+Total CPU time to Xst completion: 0.11 secs
  
 --> Parameter xsthdpdir set to xst
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.13 secs
+Total CPU time to Xst completion: 0.11 secs
  
 --> Reading design: led_clocks.prj
 
@@ -131,7 +131,7 @@ Synthesizing Unit <led_clocks>.
     Found 1-bit register for signal <blue_scan>.
     Found 1-bit register for signal <mode>.
     Found 12-bit register for signal <cntr_val>.
-    Found 12-bit adder for signal <cntr_val[11]_GND_3_o_add_16_OUT> created at line 148.
+    Found 12-bit adder for signal <cntr_val[11]_GND_3_o_add_16_OUT> created at line 131.
     Summary:
 	inferred   1 Adder/Subtractor(s).
 	inferred  21 D-type flip-flop(s).
@@ -390,11 +390,11 @@ pix_clk        |    4.935|         |         |         |
 
 
 Total REAL time to Xst completion: 5.00 secs
-Total CPU time to Xst completion: 5.37 secs
+Total CPU time to Xst completion: 5.03 secs
  
 --> 
 
-Total memory usage is 333172 kilobytes
+Total memory usage is 332628 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    0 (   0 filtered)
